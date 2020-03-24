@@ -29,14 +29,14 @@ extraCSS: "/css/wetest.css"
 
 {{<colorblock text="10 minutos de um experimento onde toda contribuição importa.">}}
 
-### PRIMERO ― Instale a extensão youtube.tracking.exposed no seu navegador.
+### PRIMEIRO ― Instale a extensão youtube.tracking.exposed no seu navegador.
 
 {{<yt-extension>}}
 
 {{<colorblock >}}
 
 <div class="container col-12 justify-content-center">
-  <h2 class="project-color">SEGUNDO ― Clique nos links, a ordem importa!</h2>
+  <h2 class="project-color">SEGUNDO ― Clique nos links, seguir a ordem é importante!</h2>
   {{<yt-extension>}}
 </div>
 
